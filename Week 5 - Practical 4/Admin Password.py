@@ -9,6 +9,11 @@ user is asked to change their old password to the new one. If the user enters th
 as their new password then it will output an error and continue to loop until a suitable password has been entered
 
 """
+"""
+__Author__ = Emaz Khan
+__Email__ = U1859269@unimail.hud.ac.uk
+__Date__ = Thursday 1st November 2018
+"""
 
 Username = input("Enter the username: ")
 Password = input("Enter the password: ")

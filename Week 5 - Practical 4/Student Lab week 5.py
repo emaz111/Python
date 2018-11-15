@@ -9,6 +9,11 @@ whether there are enough computers in each lab for the students or not and outpu
 the number of labs needed accordingly
 
 """
+"""
+__Author__ = Emaz Khan
+__Email__ = U1859269@unimail.hud.ac.uk
+__Date__ = Thursday 1st November 2018
+"""
 
 Computer_Labs = 0
 Count = 1
